@@ -1,6 +1,6 @@
 ## Open Mobile Hub
 
-OMH is an open-source platform that aims to simplify and enhance the development of mobile applications for various platforms, including iOS, Android, and more. Whether you are a solo developer or part of a team, OpenMobileHub provides a set of tools and resources to streamline your mobile app development process.
+[OMH](https://developer.openmobilehub.com) is an open-source platform that aims to simplify and enhance the development of mobile applications for various platforms, including iOS, Android, and more. Whether you are a solo developer or part of a team, OpenMobileHub provides a set of tools and resources to streamline your mobile app development process.
 
 ## Features
 
