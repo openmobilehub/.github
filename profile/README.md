@@ -12,6 +12,11 @@
 
 - **Community Support:** Join our active community of developers and get help, share your experiences, and contribute to the project.
 
+## Governance
+
+For details on our project's governance model and how decisions are made, please see our [Governance Policy](https://github.com/openmobilehub/admin/blob/main/GOVERNANCE.md).
+
+
 ## Support
 
 If you have any questions or need assistance, please reach out to our [support team](mailto:support@openmobilehub.com).
