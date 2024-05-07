@@ -52,6 +52,10 @@ For additional insights and support, visit our [FAQ page](https://docs.google.co
 
 We are committed to breaking down barriers in software development. Learn more and join the revolution by visiting [developer.openmobilehub.com](https://developer.openmobilehub.com).
 
+## Monthly TSC Meetings
+
+**Calling all developers!** Want to shape the future of the Open Mobile Hub admin portal? Join our Technical Steering Committee (TSC) meetings and have a direct impact on the project's direction. Your insights and expertise are invaluable. Learn more and find meeting times here: [https://github.com/openmobilehub/admin](https://github.com/openmobilehub/admin) 
+
 ## Governance
 
 For details on our project's governance model and how decisions are made, please see our [Governance Policy](https://github.com/openmobilehub/admin/blob/main/GOVERNANCE.md).
