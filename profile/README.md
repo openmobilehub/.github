@@ -46,7 +46,7 @@ Join the OMH ecosystem by developing custom plugins for your services. We provid
 
 ## Explore Our FAQs
 
-For additional insights and support, visit our [FAQ page](https://docs.google.com/document/d/1Do-LgweTMsdLR8ABaDvUvimISQatTU51_zbNwGZs1wI/edit?usp=sharing).
+For additional insights and support, visit our [FAQ page](https://docs.google.com/document/d/16D8NnTHQc1y4cuDZWw-oNlzd-3jL9MuFZ4lL96bglP4/edit?usp=sharing).
 
 ## Join the Revolution
 
