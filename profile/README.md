@@ -50,7 +50,7 @@ For additional insights and support, visit our [FAQ page](https://docs.google.co
 
 ## Join the Revolution
 
-We are committed to breaking down barriers in software development. Learn more and join the revolution by visiting [developer.openmobilehub.com](https://developer.openmobilehub.com).
+We are committed to breaking down barriers in software development. Learn more and join the revolution by visiting [www.openmobilehub.org](https://www.openmobilehub.org).
 
 ## Monthly TSC Meetings
 
