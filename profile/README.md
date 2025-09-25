@@ -62,7 +62,7 @@ Easily integrate cross-platform in-app purchases into your applications.
 
 **Status & Feedback**  
 Currently in PRD stage (no code yet). We are collecting feedback from the community.  
-Please review the finalized PRD [here](http://bit.ly/4nJrpEz) and share your thoughts, suggestions, or concerns.
+Please review the finalized PRD [here](http://bit.ly/4nJrpEz) *(written in collaboration with Ashok Mizra (Microsoft), Saurabh Goyal (Open Mobile Hub), and Diego Zuluaga (Open Mobile Hub))*.
 
 ---
 
