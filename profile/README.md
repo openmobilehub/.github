@@ -12,25 +12,59 @@
 
 - **Community Support:** Join our active community of developers and get help, share your experiences, and contribute to the project.
 
-## What's New in OMH 2.0?
+## What’s New in OMH 2.0
 
-### Enhanced Android Native Libraries
+### Enhanced Android & React Native SDKs
 
-- **OMH Auth Android Native API**: Now fully open source! Integrating authentication services has never been easier, supporting:
-  - Google Sign-in
-  - Facebook Login
-  - Microsoft Authentication Library (MSAL)
-  - Dropbox Core SDK
+#### OMH Auth SDK  
+Integrating authentication services has never been easier. We now support:  
+- Google Sign-in  
+- Facebook Login  
+- Microsoft Authentication Library (MSAL)  
+- Dropbox Core SDK  
 
-  Access our full code samples on [Auth Getting Started](https://github.com/openmobilehub/android-omh-auth) to integrate these into your projects today.
+**Source & Samples**  
+- [OMH Auth Android Native SDK – Getting Started](https://github.com/openmobilehub/android-omh-auth)  
+- [OMH Auth React Native SDK – Getting Started](https://github.com/openmobilehub/react-native-omh-auth)  
 
-- **OMH Maps Android Native API**: Seamlessly integrate mapping services into your apps with support for:
-  - Google Maps
-  - Mapbox
-  - OpenStreetMap
-  - Microsoft Azure Maps
+---
 
-  Our unified OMH interfaces make it easy to adapt and integrate these services. Start exploring with our [Maps Getting Started](https://github.com/openmobilehub/android-omh-maps).
+#### OMH Maps SDK  
+Embed maps into your apps with support for:  
+- Google Maps  
+- Mapbox  
+- OpenStreetMap  
+- Microsoft Azure Maps  
+
+**Source & Samples**  
+- [OMH Maps Android Native SDK – Getting Started](https://github.com/openmobilehub/android-omh-maps)  
+- [OMH Maps React Native SDK – Getting Started](https://github.com/openmobilehub/react-native-omh-maps)  
+
+---
+
+#### OMH Cloud Storage SDK  
+Enable cloud storage integration for:  
+- Google Drive  
+- Microsoft OneDrive  
+- Dropbox  
+
+**Source & Samples**  
+- [OMH Cloud Storage Android Native SDK – Getting Started](https://github.com/openmobilehub/android-omh-storage)  
+- [OMH Cloud Storage React Native SDK – Getting Started](https://github.com/openmobilehub/react-native-omh-storage)  
+
+---
+
+#### OMH In-App Purchases SDK  
+Easily integrate cross-platform in-app purchases into your applications.  
+- Support for native Android and iOS purchase flows  
+- Unified APIs for subscriptions and consumables  
+- Extensible plugin model for additional payment providers  
+
+**Status & Feedback**  
+Currently in PRD stage (no code yet). We are collecting feedback from the community.  
+Please review the finalized PRD [here](http://bit.ly/4nJrpEz) and share your thoughts, suggestions, or concerns.
+
+---
 
 ### Developing Custom Plugins
 
